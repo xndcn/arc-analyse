@@ -1,9 +1,16 @@
 arc-analyse
 ===========
 
-ARC(`Android Runtime for Chrome`) Analyse
+ARC(`App Runtime for Chrome`) Analyse
 
 ARC source codes live in https://chromium.googlesource.com/arc/arc/
+
+Downloads
+=========
+
+* [x86-32.crx](https://clients2.google.com/service/update2/crx?response=redirect&nacl_arch=x86-32&prodversion=39&x=id%3Dmfaihdlpglflfgpfjcifdjdjcckigekc%26uc)
+* [x86-64.crx](https://clients2.google.com/service/update2/crx?response=redirect&nacl_arch=x86-64&prodversion=39&x=id%3Dmfaihdlpglflfgpfjcifdjdjcckigekc%26uc)
+* [arm.crx](https://clients2.google.com/service/update2/crx?response=redirect&nacl_arch=arm&prodversion=39&x=id%3Dmfaihdlpglflfgpfjcifdjdjcckigekc%26uc)
 
 Basic Architecture 
 ==================
