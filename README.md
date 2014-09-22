@@ -45,6 +45,12 @@ These libraries seem like `OpenGL ES` hardware emulation for Android Emulator, i
 
 This is the filesystem image for Android, which can be extracted by `fs-extract.py`.
 
+Tips
+====
+
+After an app started, you can browse `chrome://inspect` -> `Apps` to inspect that App.
+
+In the console, you can use `plugin.shell("foo bar")` to run shell command.
 
 
 Tools
