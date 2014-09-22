@@ -23,6 +23,8 @@ Most files in `_platform_specific/nacl_${arch}/` should be in `/system/lib/` for
 
 The main program which build up the Android runtime.
 
+There is also `ARM instructions translator` in this program, so that shared library build for `ARM` can also be called.
+
 * dalvikvm.so
 * dexopt.so
 
